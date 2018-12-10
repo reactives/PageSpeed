@@ -1,0 +1,17 @@
+{
+    "name": "reactives/pagespeed",
+    "description": "PageSpeed",
+    "authors": [
+        {
+            "name": "Maksim Mysak",
+            "email": "maksimmysak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Reactives\\PageSpeed\\": "src/"
+        }
+    }
+}
