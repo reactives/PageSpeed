@@ -4,6 +4,9 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
+/**
+ * Class CreatePageSpeedConfigTable
+ */
 class CreatePageSpeedConfigTable extends Migration
 {
     const TABLE_NAME = 'page_speed_config';
